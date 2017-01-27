@@ -1,0 +1,65 @@
+#why_sponsor_us
+{
+    color: azure;
+    background-color: black;
+    font-family: "Arial";
+}
+
+#sponsorship_slots
+{
+    width: 100%;
+}
+
+#sponsorship_avenues
+{
+    width: 100%;
+}
+
+.orange
+{
+    color: #ff5b33;
+}
+
+th
+{
+    text-align: left;
+    color: #ff5b33;
+    font-family: monospace;
+    font-size: 22px;
+}
+
+#text
+{
+    width: 70%;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+#images
+{
+    width: 300px;
+    float: right;
+}
+
+.image
+{
+    height: 200px;
+    margin-bottom: 150px;
+}
+
+#long_image
+{
+    width: 300px;
+    height: 500px;
+}
+
+#sponsorship_avenues td
+{
+    text-align: center;
+}
+
+#sponsorship_avenues th
+{
+    text-align: center;
+}

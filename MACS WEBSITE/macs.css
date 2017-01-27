@@ -1,0 +1,29 @@
+
+h1 {
+top : 20px;
+text-align : center;
+color : blue;
+font-size : 50px;
+text-decoration : underline;
+position : relative;
+}
+
+.slide {
+position : absolute;
+background-color : black;
+height:100%;
+width : 100%;
+top : 0;
+}
+
+.main {
+display : none;
+}
+
+.clickHere {
+color : blue;
+font-size : 30px;
+text-align : center;
+margin : 100px;
+}
+
